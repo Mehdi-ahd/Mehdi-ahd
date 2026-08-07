@@ -30,6 +30,12 @@
       alt="Boot.dev Learn Linux certificate" width="450" 
     />
   </a>
+  <a href="https://www.boot.dev/certificates/887fe873-abfc-4b2a-8b98-5a29dd822dec">
+    <img 
+      src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/887fe873-abfc-4b2a-8b98-5a29dd822dec.jpeg?v=1786143320" 
+      alt="Boot.dev Build a BookBot in Python certificate" width="450" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
