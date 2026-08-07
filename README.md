@@ -21,7 +21,13 @@
     <img
       src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8f1831e5-716b-4dac-89e6-233690d61bc0.jpeg?v=1786065360"
       alt="Boot.dev Introduction to Python Certificate"
-      width="500"
+      width="450"
+    />
+  </a>
+  <a href="https://www.boot.dev/certificates/26c0428b-6d0b-41eb-a13e-65a068aefa56">
+    <img 
+      src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/26c0428b-6d0b-41eb-a13e-65a068aefa56.jpeg?v=1786121013" 
+      alt="Boot.dev Learn Linux certificate" width="450" 
     />
   </a>
 </p>
