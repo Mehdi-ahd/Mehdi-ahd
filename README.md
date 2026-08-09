@@ -49,6 +49,13 @@
       width="450" 
     />
   </a>
+  <a href="https://www.boot.dev/certificates/53e3d79f-20fa-49bd-ae61-201309f29d95">
+    <img 
+      src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/53e3d79f-20fa-49bd-ae61-201309f29d95.jpeg?v=1786290943" 
+      alt="Boot.dev Build Asteroids using Python and Pygame certificate" 
+      width="450" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
