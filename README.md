@@ -41,7 +41,14 @@
       src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f88a67ac-37c7-4cce-8009-bf71bae62e51.jpeg?v=1786218219" 
       alt="Boot.dev Learn Git certificate" width="450" 
     />
-</a>
+  </a>
+  <a href="https://www.boot.dev/certificates/e09dc650-382f-4137-a038-9528760c318a">
+    <img 
+      src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e09dc650-382f-4137-a038-9528760c318a.jpeg?v=1786284163"
+      alt="Boot.dev Learn Object Oriented Programming in Python certificate" 
+      width="450" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
