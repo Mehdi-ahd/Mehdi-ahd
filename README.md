@@ -56,6 +56,13 @@
       width="450" 
     />
   </a>
+  <a href="https://www.boot.dev/certificates/8f3e90cc-9db2-483d-8f37-868ca0736f4f">
+    <img 
+      src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8f3e90cc-9db2-483d-8f37-868ca0736f4f.jpeg?v=1786732552" 
+      alt="Boot.dev Learn Functional Programming in Python certificate" 
+      width="450" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
